@@ -1,6 +1,6 @@
 { lib, mkFormatterModule, ... }:
 {
-  meta.maintainers = [ "bizmythy" ];
+  meta.maintainers = [ "drew-council" ];
   meta.brokenPlatforms = lib.platforms.darwin;
 
   imports = [
